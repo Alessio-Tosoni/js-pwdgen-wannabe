@@ -9,6 +9,6 @@ document.getElementById("colore").innerHTML= Colore
 
 let x = "#23"
 
-let pswd = Nome, Cognome, Colore + x
+let pswd = Nome + Cognome + Colore + x
 
-document.getElementById =("pswd").innerHTML= pswd
+document.getElementById("pswd").innerHTML= pswd
